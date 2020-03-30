@@ -1,8 +1,9 @@
 /**
    BasicHTTPSClient.ino
 
-    Created on: 20.08.2018
-
+   Created on: 20.08.2018
+   
+   https://youtu.be/YYyyz4ieiWE
 */
 
 #include <Arduino.h>
