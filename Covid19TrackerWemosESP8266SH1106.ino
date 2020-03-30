@@ -28,6 +28,9 @@
  *
  */
 /* Comment this out to disable prints and save space */
+
+/* https://youtu.be/uhVwJL6SKDo */
+
 #define BLYNK_PRINT Serial
 
 #include <ESP8266WiFi.h>
